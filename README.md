@@ -40,12 +40,6 @@ Não há backend: os dados não são enviados a lugar nenhum. É apenas a **inte
 
 ---
 
-## 📸 Preview
-
-*Adicione aqui uma captura de tela da sua página, se quiser (ex.: `screenshot.png`).*
-
----
-
 <p align="center">
   <sub>Projeto desenvolvido para as aulas da faculdade.</sub>
 </p>
